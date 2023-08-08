@@ -1,18 +1,27 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm <a href="http://subktgeen.me">Subktgeen Babar</a>👋</h1>
-  </div>
-	  <p><b> I'm a Java Full Stack Developer!</b></p>
+# Hi there! 👋 I'm <a href="http://subktgeen.me">Subktgeen Babar
 
-- 🔭 I’m currently enrolled in BSIT at FCIT PU, Lahore
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught more than 100 students.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech enthusiast, let's get connected.
+I'm a passionate backend developer and a BSIT student at <a href="https://pucit.edu.pk/">PUCIT</a>. I specialize in Java programming, problem solving, and have a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and SQL databases. I'm always excited to take on new challenges and find elegant solutions.
+
+## 🔧 Technologies & Skills
+
+- Programming Languages: C++, Java, JavaScript, Python
+- Frameworks: Spring, Spring Boot
+- Backend Development: Node.js
+- Databases: Relational Databases(SQL)
+- Problem Solving: Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Version Control: Git
+
+
+## 📫 Get in Touch
+
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/subktgeen-babar/"><img src="https://img.shields.io/badge/-subktgeen%20babar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sendtosubktgeen@gmail.com"><img src="https://img.shields.io/badge/-sendtosubktgeen@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/subktgeenbabar_1/"><img src="https://img.shields.io/badge/-/subktgeenbabar_1-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
+
+
+Feel free to reach out if you're interested in collaborating on projects, discussing tech trends, or simply connecting!

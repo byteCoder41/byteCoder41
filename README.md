@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm <a href="http://subktgeen.me">Subktgeen Babar
+# Hi there! 👋 I'm Subktgeen Babar
 
 I'm a passionate backend developer and a BSIT student at <a href="https://pucit.edu.pk/">PUCIT</a>. I specialize in Java programming, problem solving, and have a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and SQL databases. I'm always excited to take on new challenges and find elegant solutions.
 

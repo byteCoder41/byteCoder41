@@ -1,12 +1,11 @@
 # Hi there! 👋 I'm Subktgeen Babar
 
-I'm a passionate backend developer and a BSIT student at <a href="https://pucit.edu.pk/">PUCIT</a>. I specialize in Java programming, problem solving, and have a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and SQL databases. I'm always excited to take on new challenges and find elegant solutions.
+I'm a passionate backend developer and a BSIT student at <a href="https://pucit.edu.pk/">PUCIT</a>. I specialize in Java programming, problem solving, and have a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and Databases. I'm always excited to take on new challenges and find elegant solutions.
 
 ## 🔧 Technologies & Skills
 
 - Programming Languages: C++, Java, JavaScript, Python
 - Frameworks: Spring, Spring Boot
-- Backend Development: Node.js
 - Databases: Relational Databases(SQL)
 - Problem Solving: Data Structures and Algorithms (DSA)
 - Object-Oriented Programming (OOP)

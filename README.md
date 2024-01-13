@@ -18,8 +18,9 @@ I'm a passionate backend developer and a BSIT student at <a href="https://pucit.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/subktgeen-babar/"><img src="https://img.shields.io/badge/-subktgeen%20babar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sendtosubktgeen@gmail.com"><img src="https://img.shields.io/badge/-sendtosubktgeen@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/subktgeenbabar_1/"><img src="https://img.shields.io/badge/-/subktgeenbabar_1-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:sendtosubktgeen@gmail.com"><img src="https://img.shields.io/badge/-sendtosubktgeen@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
 </p>
 
 

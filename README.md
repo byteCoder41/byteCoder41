@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Subktgeen Babar
 
-I'm a passionate Software Engineer. I specialize in Java programming, problem solving, and have a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and Databases. I'm always excited to take on new challenges and find elegant solutions.
+I'm a passionate Software Engineer. I have strong foundation in Data Structures and Algorithms, Object-Oriented Programming, and Databases. I'm always excited to take on new challenges and find elegant solutions.
 
 
 ## 📫 Get in Touch
